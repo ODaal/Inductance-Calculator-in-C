@@ -29,5 +29,5 @@ It uses **PLplot** for graphing and supports saving/loading user data through a 
 
 ---
 
-## 👤 Author                     ~School Project
+## 👤 Author
 Othmane Daali
